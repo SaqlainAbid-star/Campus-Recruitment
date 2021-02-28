@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "882462284634",
+    "firebase_url": "https://c-programming-quiz-5880f.firebaseio.com",
+    "project_id": "c-programming-quiz-5880f",
+    "storage_bucket": "c-programming-quiz-5880f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882462284634:android:f588405f70654efd8d3163",
+        "android_client_info": {
+          "package_name": "com.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882462284634-l9g1tl4280mvmfu0dc46siolj1lsim0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finalproject",
+            "certificate_hash": "69430fc22206221a5adb4e417f90ce45be8757e8"
+          }
+        },
+        {
+          "client_id": "882462284634-ggl69hn67s4psadmqvfoffpl3sq3earl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa1IwckoNs26K_YM4gryq-AKl3IYOcqDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882462284634-ggl69hn67s4psadmqvfoffpl3sq3earl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
